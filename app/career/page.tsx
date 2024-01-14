@@ -9,8 +9,6 @@ const Career: React.FC = () => {
 	const [selectedItem, setSelectedItem] =
 		useState<string>("mad");
 
-	// {ipfs video url }
-
 	const videoUrl =
 		"https://ipfs.io/ipfs/QmeJpxsnQQw5FvbH1pJf18nEywXKheuZugyVzZNNHx6o7K/QmeTNhQpMewhqK5NEP8mEwSEmNzEyJR7VtnP1MjkdrNRTZ";
 
